@@ -1,0 +1,19 @@
+{
+  "name": "create-react-template",
+  "version": "1.0.0",
+  "description": "simple template generator for react appilication",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "package",
+    "generator"
+  ],
+  "author": "Samuel Momoh",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
